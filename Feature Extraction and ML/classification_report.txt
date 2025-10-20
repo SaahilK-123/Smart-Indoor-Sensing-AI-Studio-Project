@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+      Active     0.5299    0.6488    0.5833       205
+        Calm     0.8861    0.8128    0.8478       641
+     Chaotic     0.3636    0.4324    0.3951        37
+
+    accuracy                         0.7588       883
+   macro avg     0.5932    0.6313    0.6087       883
+weighted avg     0.7815    0.7588    0.7675       883

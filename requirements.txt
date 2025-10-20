@@ -1,0 +1,6 @@
+scipy
+openpyxl
+torch
+matplotlib
+scikit-learn
+torchvision
