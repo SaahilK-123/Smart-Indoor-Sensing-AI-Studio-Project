@@ -1,3 +1,5 @@
 IoT-Sensor/
 __pycache__/
+Feature/*.h5
+**/*.h5
 Feature/
