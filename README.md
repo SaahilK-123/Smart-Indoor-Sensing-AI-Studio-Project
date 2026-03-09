@@ -98,7 +98,8 @@ This project can be applied to a wide range of cases. Some examples of usages fo
 8. Ensure all variables are correctly assigned in python files
 
 ```bash
-  File: 'csi_data_collection.py' requies variable 'serial_port' to be assigned a COM number. Refer to 'Step 7' to identify COM number
+  File: 'csi_data_collection.py' requies variable 'serial_port' to be assigned a COM number. 
+  Refer to 'Step 7' to identify COM number
 ```
 
 9. Space out the devices in a triangular shape and ensure they remain ~ 1-2 metres apart ensuring a wireless connection with the router for all devices and attach 1x ESP32 microcontroller per device
@@ -117,7 +118,9 @@ This project can be applied to a wide range of cases. Some examples of usages fo
 11. Run 'read_h5.py' to convert frames to processable data.
 
 ```bash
-  NOTE: The 'read_h5.py' file mentioned IS NOT the one under Feature Extraction and ML and is referring to the one visible in the main folder of the project (the one visible on the home screen of the project)
+  NOTE: The 'read_h5.py' file mentioned IS NOT the one under Feature Extraction and ML 
+  and is referring to the one visible in the main folder of the project 
+  (the one visible on the home screen of the project)
 ```
 
 12. Manually label the data (using relevant time intervals [e.g. 1-min intervals for a 15-min experiment])
